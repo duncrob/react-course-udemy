@@ -1,5 +1,26 @@
 {
-  "users": [],
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Wade Turner",
+      "id": 18
+    },
+    {
+      "name": "Tommie Cremin",
+      "id": 19
+    },
+    {
+      "name": "Jill Bode",
+      "id": 23
+    },
+    {
+      "name": "Dr. Lucille Kling",
+      "id": 26
+    }
+  ],
   "albums": [],
   "photos": []
 }
